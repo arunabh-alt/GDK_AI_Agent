@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" alt="Google Cloud" width="120"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s" alt="Vertex AI" width="100"/>
+<!--   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s" alt="Vertex AI" width="100"/> -->
   <img src="https://google.github.io/adk-docs/assets/adk-social-card.png" alt="Google Agent Development Kit" width="300"/>
 </p>
 
@@ -21,31 +21,19 @@ The emergence of **agentic AI** marks a paradigm shift from reactive AI models t
 - Learn from context and feedback
 - Perform complex multi-step tasks autonomously
 
-This repository is dedicated to learning and experimenting with **agent development** using GDK in the Google Cloud ecosystem, particularly **Vertex AI**, which offers seamless integration with large language models, embeddings, vector search, and more.
-
-##  What This Project Covers
-
-- Introduction to GDK and Vertex AI Agent ecosystem
-- Building your first agent with plans and steps
-- Integrating tools and external APIs
-- Running agents in cloud environments
-- Best practices for scalable and secure agent design
-
-##  Directory Structure
+This repository is dedicated to learning and experimenting with **agent development** using GDK in the Google Cloud ecosystem, which offers seamless integration with large language models, embeddings, vector search, and more.
 
 
 ## Requirements
 
 - Python 3.10+
 - Google Cloud SDK
-- Vertex AI enabled in your GCP project
 - Access to the Google Agent Development Kit (Preview/Beta)
 
 ## Learning Goals
 
 - Understand how agentic architectures differ from traditional LLM pipelines
 - Explore how plans, steps, and tools work in the GDK framework
-- Use Vertex AI's capabilities for embeddings, search, and chat models
 - Develop agents that can autonomously interact with the environment
 
 ## Resources
